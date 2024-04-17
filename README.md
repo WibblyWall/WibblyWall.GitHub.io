@@ -7,7 +7,9 @@ Storing Player data and information like name and items the player has in the Pl
 And the ability to have the player pick where they want to go using the Locations class.
 ![aid](https://github.com/WibblyWall/WibblyWall.GitHub.io/tree/main/Adventure%20Game)
 ## Unity Game
+1[aid](https://github.com/WibblyWall/WibblyWall.GitHub.io/issues/2)
 A personal project I have started using the knowlage I learned from my text based adventure game.
 Showing the uses of bools and floats very heavily.
+Also using vectors, getbuttondown, and IEnumerators.
 ![aid](https://github.com/WibblyWall/WibblyWall.GitHub.io/blob/main/Platform%20Movement.cs)
 
